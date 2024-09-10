@@ -1,3 +1,5 @@
+ABSA
+
 This project aims to utilize sentiment analysis models to analyze comments about
 board games, with the goal of identifying the positive, neutral and negative
 aspects of these games. This study aims to explore board game data to uncover
